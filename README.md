@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+hc_rename
+----------------------------------------------------------------
+
+用于重命名影片名称，与刮削数据文件名匹配。
